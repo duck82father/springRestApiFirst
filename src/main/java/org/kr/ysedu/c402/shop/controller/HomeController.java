@@ -1,4 +1,4 @@
-package org.kr.ysedu.c402.shop;
+package org.kr.ysedu.c402.shop.controller;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
